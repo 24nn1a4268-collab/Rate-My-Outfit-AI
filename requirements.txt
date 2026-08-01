@@ -1,0 +1,25 @@
+# Core
+numpy>=1.24
+pandas>=2.0
+opencv-python-headless>=4.9
+Pillow>=10.0
+
+# Deep learning
+tensorflow>=2.15
+scikit-learn>=1.3
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# App
+streamlit>=1.35
+
+# Vision-Language Model (Hugging Face Transformers)
+transformers>=4.40
+torch>=2.2
+accelerate>=0.30
+einops>=0.7          # required by moondream2
+
+# Dataset auto-labeling helper (organize_dataset.py)
+tqdm>=4.66

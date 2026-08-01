@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Model files
+saved_models/
+*.h5
+*.keras
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Datasets
+dataset/
+dataset_raw/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Operating System
+Thumbs.db
+.DS_Store

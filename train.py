@@ -93,7 +93,7 @@ FINE_TUNE_EPOCHS: int = 20
 FINE_TUNE_LAYERS: int = 30
 LEARNING_RATE: float = 1e-4
 FINE_TUNE_LEARNING_RATE: float = 1e-5
-DENSE_UNITS: int = 256 k
+DENSE_UNITS: int = 256 
 DROPOUT_RATE: float = 0.3
 
 # Ensure deterministic behaviour where possible
